@@ -1,0 +1,54 @@
+body {
+    background-color: aquamarine;
+}
+.plus {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 40px;
+}
+.minus {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+.recet {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 112px;
+    margin-top: 20px;
+}
+.counter {
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.v {
+    border: 4px solid violet;
+    width: 300px;
+    height: 300px;
+}
+.ten {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 112px;
+    margin-top: 20px;
+}
+.fifty {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 112px;
+    margin-top: 20px;
+}
+.handred {
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 112px;
+    margin-top: 20px;
+}
